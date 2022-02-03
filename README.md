@@ -5,7 +5,7 @@
 [![Medium](https://aleen42.github.io/badges/src/medium.svg?style=flat-square&logo=Linkedin&logoColor=white&link=https://medium.com/@vittoriaborotto)](https://medium.com/@vittoriaborotto)
 <img src="https://img.shields.io/badge/Back End-Java-f55247"/>
 <img src="https://img.shields.io/badge/Docker-lover-blue"/>
-<img src="https://img.shields.io/badge/aws-learning-yellow"/>
+<img src="https://img.shields.io/badge/aws-certified-yellow"/>
 <img src="https://img.shields.io/badge/python-curious-blue"/>
 
 
